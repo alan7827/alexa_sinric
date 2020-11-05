@@ -4,4 +4,4 @@
 
 
 #define MySSID "freebox_HDWDGF"
-#define MyWifiPassword "Ophelie87hector"
+#define MyWifiPassword "************"
